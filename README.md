@@ -1,0 +1,1 @@
+This was my second group project at Grand Circus. The project in its entirety was built in Angular. We built a website utilizing The Movie Database(TMDb) api. The purpose of the project was to make a website that users could search for a movie and be able to add it to thier favorites. If they decided they didn't want a movie in thier favorites, they could remove it. 
